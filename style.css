@@ -21,7 +21,7 @@ h2{
 }
 
 p{
-    font-family: 'times new roman'
+    font-family: ''
 }
 
 #nav {
@@ -31,14 +31,16 @@ p{
     text-align: center
 }
 
-#clump{
-    padding-top: 20px;
+#nav li{
 
-}
-
-li{
     display: inline;
     padding: 25px
+}
+
+#clump{
+    padding-top: 20px;
+    margin: 1px auto;
+
 }
 
 
