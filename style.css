@@ -7,12 +7,22 @@ body{
     Background-color: #e3242b;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 30px;
+    padding: 20px;
     text-align: center;
     font-size: 400%;
     font-family: 'poppins';
     color: white;
+}
 
+.headercontainer h2{
+    Background-color: #e3242b;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: 150%;
+    font-family: 'poppins';
+    color: white;
 }
 
 h1{
@@ -50,11 +60,12 @@ p{
 }
 
 
-.footercontainer{
+.footercontainer footer{
     Background-color: #e3242b;
     margin-top: 10px;
     padding: 15px;
-    text-align: center
+    text-align: center;
+    color: white;
 
 }
 
