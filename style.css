@@ -37,9 +37,10 @@ p{
     padding: 25px
 }
 
-#clump{
+#clump img{
     padding-top: 20px;
     margin: 1px auto;
+    display: block;
 
 }
 
