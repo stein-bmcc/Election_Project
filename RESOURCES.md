@@ -1,10 +1,7 @@
-# Election_Project
-Election
-Resources
 
-There are many places to find information and ways to get involved in the election.
+*There are many places to find information and ways to get involved in the election.*
 
-Get Involved
+# Get Involved
 
 * League of Women Voters: http://lwv.org/ The League is a non-profit organization that engages in a number of activities around voting, from education to registering people to vote and more.
 * Rock the Vote: http://rockthevote.com/. Started in 1990 Rock The Vote is a non-profit dedicated to getting young people to vote and participate in the electoral process.
@@ -13,7 +10,7 @@ Get Involved
 * Become a Poll Worker: http://www.vote.nyc.ny.us/html/workers/positions.shtml
 
 
-Voter Information and Education
+### Voter Information and Education
 
 Official and well-known, non-partisan sources to go to get information on the election.
 
@@ -24,7 +21,7 @@ Official and well-known, non-partisan sources to go to get information on the el
 * Federal Voting Assistance Project: https://www.fvap.gov/. FVAP is a federal program charged with helping military and US citizens get the tools and information to vote.
 * Vote 411: http://www.vote411.org/ is created by the League of Women Voters to give out non-partisan information on how to vote.
 
-Media
+### Media
 
 * New York Times (Newspaper): http://www.nytimes.com/interactive/2016/us/elections/election-2016.html and http://www.nytimes.com/news-event/election-2016
 * WNYC (Local Public Radio): http://www.wnyc.org/series/everything-you-need-know-about-2016-elections
@@ -39,7 +36,7 @@ Media
 * Politico (online): http://www.politico.com/
 
 
-Political Parties and Campaigns
+### Political Parties and Campaigns
 
 On the candidates page you can go to candidate web sites to get involved in their campaigns. Listed here are the party web sites for the major political parties
 
