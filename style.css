@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cabin|Comfortaa|Fredoka+One|Gentium+Basic|Handlee|Josefin+Sans|Montserrat|Poiret+One|Poppins|Raleway|Shadows+Into+Light');
 
-
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Playfair+Display+SC');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700|Playfair+Display|Playfair+Display+SC');
 
 body{
     background-color:white;
@@ -29,17 +30,14 @@ body{
 
 h1{
     color: black;
-    font-family:'poppins'
+    font-family:'Montserrat';
 
 }
 
 h2{
-    font-family: 'poppins'
+    font-family: 'poppins';
 }
 
-p{
-    font-family: ''
-}
 
 #nav {
     Background-color: #e3242b;
