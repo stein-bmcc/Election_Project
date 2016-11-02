@@ -60,6 +60,11 @@ h2{
 
 }
 
+#candidates img{
+    margin: 1px auto;
+    display: block;
+}
+
 .Calendar iframe{
     padding-top: 20px;
     margin: 1px auto;
